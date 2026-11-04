@@ -4,13 +4,13 @@ Project Overview
 
 This project focuses on analysing sales data using MySQL to generate meaningful business insights.
 
-Objectives
+Project Objectives
 
-- Analyse total sales revenue.
+- Calculate total sales revenue.
 - Identify top-selling products.
-- Find the best-performing customers.
-- Analyse monthly sales trends.
-- Compare category-wise performance.
+- Analyse customer purchasing behaviour.
+- Find monthly sales trends.
+- Compare category-wise sales performance.
 
 Tools Used
 
@@ -25,13 +25,12 @@ Database Tables
 3. Orders
 4. Order Items
 
-SQL Concepts
+SQL Concepts Used
 
-- SELECT and WHERE
-- ORDER BY and DISTINCT
+- SELECT, WHERE and ORDER BY
 - Aggregate Functions
 - GROUP BY and HAVING
-- JOINs
+- JOINS
 - Subqueries
 - CASE WHEN
 - Window Functions
