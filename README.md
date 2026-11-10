@@ -74,10 +74,9 @@ Specific numerical findings can be added after analysing the actual query result
 
 Project Structure
 
-Sales-Data-Analysis/
-│
-├── README.md
-└── sales_analysis.sql
+/Sales-Data-Analysis/
+_ README.md
+_ sales_analysis.sql
 
 Project Status
 
